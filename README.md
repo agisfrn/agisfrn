@@ -29,7 +29,7 @@ I work as part of a social media marketing agency team with <a href="https://git
   <tr>
     <td align="center" width="33%"><b>Focus</b><br/><sub>AI automations</sub></td>
     <td align="center" width="33%"><b>Agency</b><br/><sub>Social media marketing (SMMA)</sub></td>
-    <td align="center" width="33%"><b>Building</b><br/><sub>AI epoxy floor visualizer</sub></td>
+    <td align="center" width="33%"><b>Building</b><br/><sub>Site Doctor, an AI website checker</sub></td>
   </tr>
 </table>
 
@@ -43,12 +43,20 @@ I work as part of a social media marketing agency team with <a href="https://git
   <tr>
     <td align="center" width="100%">
       <br/>
-      <a href="https://github.com/agisfrn/epoxy-visualizer"><b>Epoxy Visualizer</b></a>
+      <a href="https://github.com/agisfrn/site-doctor-agent"><b>Site Doctor</b></a>
       &nbsp;
-      <img src="https://img.shields.io/badge/Demo-0D1117?style=flat-square&color=0F766E" alt="Demo" />
+      <img src="https://img.shields.io/badge/AI_Agent-0D1117?style=flat-square&color=0F766E" alt="AI Agent" />
       <br/><br/>
-      An AI demo for epoxy flooring businesses.<br/>
-      It shows a customer how an epoxy floor could look before the work starts.
+      An AI agent that checks a website the way a real visitor would.<br/>
+      It opens the pages in a browser, finds what is broken, and writes a clear report with screenshots.
+      <br/><br/>
+      <sub>
+        Broken links &nbsp;·&nbsp; JavaScript errors &nbsp;·&nbsp; Slow pages &nbsp;·&nbsp; Missing titles &nbsp;·&nbsp; Severity ratings
+      </sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude API" />
+      <img src="https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
       <br/><br/>
     </td>
   </tr>
